@@ -1,6 +1,6 @@
 
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies:
 
 ```
 	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
